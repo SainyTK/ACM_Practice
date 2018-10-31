@@ -1,1 +1,2 @@
-https://github.com/tanakorn0314/ACM_Practice.git
+#test input cmd
+file.exe < input.txt > out.txt
